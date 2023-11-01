@@ -1,4 +1,4 @@
-{if $ajax == "3"}
+{if $ajax == "3" }
 <script>
 {literal}
 
