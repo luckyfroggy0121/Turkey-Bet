@@ -9,3 +9,4 @@ $GLOBALS["canli_kapali"]="0";
 $GLOBALS["canli_kapali_aciklama"]="";
 $GLOBALS["site_kapali"]="0";
 $GLOBALS["site_kapali_aciklama"]="";
+?>
