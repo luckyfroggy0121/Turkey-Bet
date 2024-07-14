@@ -1,0 +1,205 @@
+
+------------------------
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [sport_id] => 0
+            [match_id] => 41891591
+            [type] => 2
+            [description] => 1X2
+            [score] => 0-0
+            [date] => 2023-08-25 16:44:30
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [sport_id] => 0
+            [match_id] => 41877863
+            [type] => 0
+            [description] => 1X2
+            [score] => 0-0
+            [date] => 2023-08-25 18:53:22
+        )
+
+    [2] => Array
+        (
+            [id] => 3
+            [sport_id] => 0
+            [match_id] => 41967971
+            [type] => 2
+            [description] => 1X2
+            [score] => 0-0
+            [date] => 2023-08-25 19:02:35
+        )
+
+    [3] => Array
+        (
+            [id] => 4
+            [sport_id] => 4
+            [match_id] => 43233045
+            [type] => 2
+            [description] => 1X2
+            [score] => 0-0
+            [date] => 2023-08-25 21:44:57
+        )
+
+    [4] => Array
+        (
+            [id] => 5
+            [sport_id] => 0
+            [match_id] => 42987385
+            [type] => Over
+            [description] => Toplam Goller
+            [score] => 0-0
+            [date] => 2023-08-25 23:04:12
+        )
+
+    [5] => Array
+        (
+            [id] => 6
+            [sport_id] => 0
+            [match_id] => 42708161
+            [type] => Over
+            [description] => Total Goals by North Texas SC
+            [score] => 0-0
+            [date] => 2023-08-25 23:04:12
+        )
+
+    [6] => Array
+        (
+            [id] => 7
+            [sport_id] => 0
+            [match_id] => 42607803
+            [type] => 1
+            [description] => Tam Zaman
+            [score] => 0-0
+            [date] => 2023-08-25 23:04:54
+        )
+
+    [7] => Array
+        (
+            [id] => 8
+            [sport_id] => 0
+            [match_id] => 42708161
+            [type] => Under
+            [description] => Asian Total
+            [score] => 0-0
+            [date] => 2023-08-25 23:04:54
+        )
+
+    [8] => Array
+        (
+            [id] => 9
+            [sport_id] => 0
+            [match_id] => 43114155
+            [type] => Under
+            [description] => Toplam Goller
+            [score] => 0-0
+            [date] => 2023-08-25 23:04:54
+        )
+
+    [9] => Array
+        (
+            [id] => 10
+            [sport_id] => 0
+            [match_id] => 42607803
+            [type] => Under
+            [description] => Toplam Goller
+            [score] => 0-0
+            [date] => 2023-08-25 23:11:22
+        )
+
+    [10] => Array
+        (
+            [id] => 11
+            [sport_id] => 0
+            [match_id] => 42708161
+            [type] => 1
+            [description] => Beraberlik; Bahisler İade Edilir
+            [score] => 0-0
+            [date] => 2023-08-25 23:11:22
+        )
+
+    [11] => Array
+        (
+            [id] => 12
+            [sport_id] => 0
+            [match_id] => 1019944939
+            [type] => 2
+            [description] => 1X2
+            [score] => 0-0
+            [date] => 2023-08-27 16:54:19
+        )
+
+    [12] => Array
+        (
+            [id] => 13
+            [sport_id] => 1
+            [match_id] => 1019876972
+            [type] => X
+            [description] => Tam Zaman
+            [score] => 0-0
+            [date] => 2023-08-27 17:19:14
+        )
+
+    [13] => Array
+        (
+            [id] => 14
+            [sport_id] => 1
+            [match_id] => 1019876972
+            [type] => 2
+            [description] => Tam Zaman
+            [score] => 0-0
+            [date] => 2023-08-27 17:21:52
+        )
+
+    [14] => Array
+        (
+            [id] => 15
+            [sport_id] => 1
+            [match_id] => 1019853843
+            [type] => FK Baumit Jablonec to win by 2 or more
+            [description] => Exact Winning Margin
+            [score] => 1-1
+            [date] => 2023-08-27 17:21:52
+        )
+
+    [15] => Array
+        (
+            [id] => 16
+            [sport_id] => 1
+            [match_id] => 1019853846
+            [type] => 3-1
+            [description] => Doğru Skor
+            [score] => 1-0
+            [date] => 2023-08-27 17:21:52
+        )
+
+    [16] => Array
+        (
+            [id] => 17
+            [sport_id] => 1
+            [match_id] => 1019944849
+            [type] => Odd
+            [description] => Toplam Goller Tek/Çift
+            [score] => 2-2
+            [date] => 2023-08-27 19:43:12
+        )
+
+    [17] => Array
+        (
+            [id] => 18
+            [sport_id] => 0
+            [match_id] => 1020033347
+            [type] => 2.5 Üst
+            [description] => Toplam Goller
+            [score] => 0-0
+            [date] => 2023-08-28 12:28:33
+        )
+
+)
+
+------------------------
